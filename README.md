@@ -6,7 +6,7 @@ $ cd PhoneScanner
 
 $ ls
 
-$ pip install requirements.txt
+$ python3 -m pip install -r requirements.txt
 
 $ chmod 777 PhoneScanner
 
